@@ -31,3 +31,9 @@ body {
     margin-bottom: 20px;
 }
 
+.social-links {
+    margin: 15px;
+}
+.social-links > a {
+    margin: 0 5px;
+}
