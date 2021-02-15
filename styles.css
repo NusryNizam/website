@@ -37,3 +37,7 @@ body {
 .social-links > a {
     margin: 0 5px;
 }
+
+.social-links > a > img {
+    width: 22px;
+}
