@@ -40,4 +40,10 @@ body {
 
 .social-links > a > img {
     width: 22px;
+    transition: 150ms ease-in-out;
+
+}
+
+.social-links > a > img:hover {
+    transform: scale(1.2);
 }
