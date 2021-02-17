@@ -9,7 +9,6 @@ body {
     flex-direction: column;
     margin: 180px 0px;
     align-items: center;
-
 }
 
 .main > * {
@@ -21,8 +20,6 @@ body {
     font-weight: 800;
     margin: 10px 0px 15px 0px;
 }
-
-
 
 .profile {
     border-radius: 100%;
@@ -41,7 +38,6 @@ body {
 .social-links > a > img {
     width: 22px;
     transition: 150ms ease-in-out;
-
 }
 
 .social-links > a > img:hover {
